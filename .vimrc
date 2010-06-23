@@ -10,3 +10,4 @@ filetype plugin on
 set backspace=2
 set wrapscan
 set showmatch
+set number
